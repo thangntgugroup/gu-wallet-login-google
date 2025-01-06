@@ -1,0 +1,8 @@
+{
+  "title": "Web3Authでログイン",
+  "description": "GUアカウントでログインしてください。お持ちでない方はアカウントを作成してください。",
+  "sign_in": "Web3Authを使用してG.U. Accountにサインインする",
+  "description_continue_google": "G.U.Accountをお持ちでない場合、ログインすると自動的にG.U.Accountが作成されます。その場合、利用規約に同意したものと見なします。",
+  "continue_with_google": "Google を続ける",
+  "cancel": "キャンセル"
+}

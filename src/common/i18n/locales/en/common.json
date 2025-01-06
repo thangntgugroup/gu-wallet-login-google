@@ -1,0 +1,8 @@
+{
+  "title": "Login with Web3Auth",
+  "description": "Please log in with your GU account. If you don't have one, please create an account.",
+  "sign_in": "Sign in G.U. Account with Web3Auth",
+  "description_continue_google": "If you don't have a G.U. Account, it will be automatically created when you log in. In that case, it will be considered that you have agreed to the terms of use.",
+  "continue_with_google": "Continue with Google",
+  "cancel": "Cancel"
+}

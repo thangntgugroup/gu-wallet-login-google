@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login - renders correctly in English 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <div
+    className="makeStyles-container-2"
+  >
+    <div
+      className="makeStyles-title-3"
+    >
+      Login with Web3Auth
+    </div>
+    <div
+      className="makeStyles-description-4"
+    >
+      Please log in with your GU account. If you don't have one, please create an account.
+    </div>
+    <div
+      className="makeStyles-description-4"
+    >
+      Sign in G.U. Account with Web3Auth
+    </div>
+    <div
+      className="makeStyles-buttonSignIn-5"
+      onClick={[Function]}
+    >
+      <img
+        alt=""
+        className="makeStyles-buttonSignInIcon-6"
+        src="google_login.png"
+      />
+      <p
+        className="makeStyles-buttonSignInText-7"
+      >
+        Continue with Google
+      </p>
+    </div>
+    <div
+      className="makeStyles-description-4"
+    >
+      If you don't have a G.U. Account, it will be automatically created when you log in. In that case, it will be considered that you have agreed to the terms of use.
+    </div>
+    <div
+      className="makeStyles-cancel-8"
+      onClick={[Function]}
+    >
+      Cancel
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Login - renders correctly in Japanese 1`] = `
+<div
+  className="makeStyles-root-9"
+>
+  <div
+    className="makeStyles-container-10"
+  >
+    <div
+      className="makeStyles-title-11"
+    >
+      Web3Authでログイン
+    </div>
+    <div
+      className="makeStyles-description-12"
+    >
+      GUアカウントでログインしてください。お持ちでない方はアカウントを作成してください。
+    </div>
+    <div
+      className="makeStyles-description-12"
+    >
+      Web3Authを使用してG.U. Accountにサインインする
+    </div>
+    <div
+      className="makeStyles-buttonSignIn-13"
+      onClick={[Function]}
+    >
+      <img
+        alt=""
+        className="makeStyles-buttonSignInIcon-14"
+        src="google_login.png"
+      />
+      <p
+        className="makeStyles-buttonSignInText-15"
+      >
+        Google を続ける
+      </p>
+    </div>
+    <div
+      className="makeStyles-description-12"
+    >
+      G.U.Accountをお持ちでない場合、ログインすると自動的にG.U.Accountが作成されます。その場合、利用規約に同意したものと見なします。
+    </div>
+    <div
+      className="makeStyles-cancel-16"
+      onClick={[Function]}
+    >
+      キャンセル
+    </div>
+  </div>
+</div>
+`;

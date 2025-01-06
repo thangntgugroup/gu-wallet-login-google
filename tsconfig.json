@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "noImplicitReturns": true,
+    "strictNullChecks": true,
+    "declaration": false,
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "removeComments": true,
+    "jsx": "react",
+    "allowJs": true,
+    "importHelpers": true,
+    "strict": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "lib": ["dom", "es2017", "es2018.promise"],
+    "preserveConstEnums": true,
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
+    "skipLibCheck": true
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+    ".github",
+    ".vscode",
+    "tasks"
+  ]
+}
